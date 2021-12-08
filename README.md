@@ -1,5 +1,6 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para Desafio de Projeto.
+# Calculadora de salário de funcionário contratado por diária
+Neste repositório contém um projeto executado por mim, que consiste em uma calculadora de salários para uso quando um funcionário é contratado para serviços a serem realizados na diária.
 
-## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+A calculadora mostra o nome do funcionário, profissão, caso o mesmo tenha hora extra a calculadora irá calcular o salário com as horas extras devidas.
+
+O projeto foi desenvolvido no Portugol Studio e faz parte do desafio de projeto sobre Git/Github da DIO.
